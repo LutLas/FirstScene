@@ -12,4 +12,5 @@
     <string name="imgDes">imageDescription</string>
     <string name="third_fragment_label">Third Fragment</string>
     <string name="hello_third_fragment">Hello Third Fragment</string>
+    <string name="button">Button</string>
 </resources>

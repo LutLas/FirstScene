@@ -28,11 +28,4 @@ class ThirdFragment : Fragment() {
         }
 
         }
-
-        fun topClick(v: View) {
-                Toast.makeText(activity, "Button clicked",
-                        Toast.LENGTH_SHORT).show()
-
-                Log.i("info", "The user clicked the Button")
-        }
 }
